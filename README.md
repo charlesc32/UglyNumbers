@@ -20,19 +20,16 @@ Input sample:
 
 Your program should accept as its first argument a path to a filename. Each line in this file is one test case. Each test case will be a single line containing a non-empty string of decimal digits. The string in each test case will be non-empty and will contain only characters '0' through '9'. Each string is no more than 13 characters long. eg.
 
-1
-
-9
-
-011
-
-12345
+1<br>
+9<br>
+011<br>
+12345<br>
 
 Output sample:
 
 Print out the number of expressions that evaluate to an ugly number for each test case, each one on a new line eg
 
-0
-1
-6
+0<br>
+1<br>
+6<br>
 64
